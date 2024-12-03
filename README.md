@@ -30,10 +30,8 @@ IMPORTANTE: É necessário ter o Node.js instalado em seu computador antes de ex
 
   
 > dev
-
 > npx parcel --port 8000 index.html
 
 Server running at http://localhost:8000
-✨   Built in xxxms
-
+✨ Built in xxxms
 O projeto estará disponível no endereço http://localhost:8000 e você poderá acessá-lo no navegador de sua preferência.
