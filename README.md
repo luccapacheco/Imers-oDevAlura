@@ -30,6 +30,7 @@ IMPORTANTE: É necessário ter o Node.js instalado em seu computador antes de ex
 
   
 > dev
+
 > npx parcel --port 8000 index.html
 
 Server running at http://localhost:8000
